@@ -1,0 +1,29 @@
+name: HPQ-Dataset
+description: [Describe your dataset here]
+contributors:
+- name: [Name of the the first contributor]
+data:
+  path: [path_to_your_data_file.csv]
+  format: csv
+  size: [size of your data file]
+  fields:
+  - name: [name of the first colomn]
+    description: [description of the first column]
+  - name: [name of the second colomn]
+    description: [description of the second column]
+- name: [name of your second data file, optional]
+  description: [description of your second data file, optional]
+  path: [path_to_your_data_file.csv]
+  format: csv
+  size: [size of your data file]
+  fields:
+  - name: [name of the first colomn]
+    description: [description of the first column]
+  - name: [name of the second colomn]
+    description: [description of the second column]
+license:
+- name: [Name of the license of the dataset]
+  link: [Link to the license page]
+references:
+- name: [Name of the first reference]
+  link: [https://link_to_your_first_reference]
