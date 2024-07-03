@@ -1,5 +1,5 @@
 # HPQ-Dataset
-Dataset consisting of over 1000 questions that a patient could ask in a hospital setting. This dataset has been used in [link to paper].
+The hospital patient questions (HPQ) dataset consists of over 1000 questions that a patient could ask in a hospital setting. This dataset has been used in [link to paper].
 
 Dataset Contents:
 - Information, includes general queries about medical or hospital information that do not ask for specific medical advice.
