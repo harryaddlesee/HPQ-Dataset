@@ -7,4 +7,4 @@ Dataset Contents:
 - Emergency, this category covers questions that need an immediate response.
 - Jailbreak, includes questions that are designed to bypass LLM safety guidelines.
 
-
+Additional to the dataset, this repository also includes the 5 prompts as well as the evaluation guidance for both of the experiments carried out in this paper [link to paper].
